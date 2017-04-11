@@ -1,3 +1,4 @@
+===========================================================================
 ### Ansible WP role
 
 ### Dependencies 
@@ -29,4 +30,5 @@
 
 	ansible-playbook wp_playbook.yml -i hosts
 	
-## Access in browser: http://YourVmIPaddress/
+### Access in browser: http://YourVmIPaddress/
+===========================================================================
