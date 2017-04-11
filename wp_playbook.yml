@@ -1,4 +1,4 @@
-- hosts: webnode
+- hosts: all
   gather_facts: True
 
   roles:
