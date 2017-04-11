@@ -1,0 +1,7 @@
+- hosts: webnode
+
+  roles:
+    - common
+    - php
+    - mysql
+    - wordpress
