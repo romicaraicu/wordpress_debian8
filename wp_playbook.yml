@@ -1,4 +1,5 @@
 - hosts: webnode
+  gather_facts: True
 
   roles:
     - common

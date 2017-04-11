@@ -6,3 +6,8 @@
   with_items:
     - php5-gd 
     - libssh2-php
+    - php5-mysql
+    - php5
+    - libapache2-mod-php5
+    - php5-mcrypt
+    - python-mysqldb
