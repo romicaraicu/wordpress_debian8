@@ -19,7 +19,7 @@
 	cd wordpress_debian8
 	vagrant up
 
-## Access in browser: http://localhost:8080
+ - Access in browser: http://localhost:8080
   
 ===========================================================================
 ### Execute playbook with on VM:
@@ -30,5 +30,5 @@
 
 	ansible-playbook wp_playbook.yml -i hosts
 	
-### Access in browser: http://YourVmIPaddress/
+ - Access in browser: http://YourVmIPaddress/
 ===========================================================================
